@@ -1,1 +1,1 @@
-<a href="main.css"> bruh</a>
+<a href="./main.css"> bruh</a>
